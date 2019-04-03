@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Logitech -->
+    <usb-device vendor-id="1133" product-id="1007" />
+    <usb-device vendor-id="1133" product-id="49686" />
+
+
+    <!-- Taranis plus-->
+    <usb-device vendor-id="1155" product-id="1002" />
+    <usb-device vendor-id="1155" product-id="22288" />
+
+
+
+</resources>
